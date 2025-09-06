@@ -4,5 +4,7 @@ DSA notes syntax midterms: https://docs.google.com/document/d/1JqlRFJrSR5ZPlA-y7
 
 DSA syntax examples: https://github.com/MiracleMark35/C-DSA.git
 
+DSA/Prog2 problems: https://drive.google.com/drive/folders/1vtR-Wr8w7YyPTBSZ3vvy705r3kFH_Sx8
+
 to do/practice for pm & m = apply stack n queue to previous prog 2 codes problems.
 (locate @ google docs, drive,& codechum)
