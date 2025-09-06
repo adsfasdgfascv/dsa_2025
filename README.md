@@ -6,6 +6,8 @@ DSA syntax examples: https://github.com/MiracleMark35/C-DSA.git
 
 DSA/Prog2 problems: https://drive.google.com/drive/folders/1vtR-Wr8w7YyPTBSZ3vvy705r3kFH_Sx8
 
+written quiz for DSA: https://docs.google.com/forms/d/e/1FAIpQLScQBXHKVPVGuhfggT554tkme2n_sOBua3fz-rWlA4NRUafUSg/viewform
+
 to do/practice for pm & m = apply stack n queue to previous prog 2 codes problems.
 (locate @ google docs, drive,& codechum)
 
