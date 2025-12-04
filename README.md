@@ -3,11 +3,13 @@
 MY NOTES
 
 visualizer
-
 https://lucid.app/lucidchart/a47d79b4-8a07-4a7b-968e-95cee84449b3/edit?viewport_loc=-1747%2C-2947%2C5115%2C2968%2C0_0&invitationId=inv_1140c147-c82a-47da-99b8-5e9fcf93fb47
 
 notes
 https://www.notion.so/26ffa7c4d437800f9a55f79ba50b2a9a?v=26ffa7c4d437816b9bbe000ceb632bf4&source=copy_link
+
+
+
 
 
 
