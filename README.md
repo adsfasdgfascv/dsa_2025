@@ -34,8 +34,7 @@ CISCODE: https://ciscode.dcism.org/
 
 DSA notes pandemic: https://drive.google.com/drive/folders/1N6W2xgPoLzu2OhZysg4mzHEDeSxd7k30
 
-to do/practice for pm & m = apply stack n queue to previous prog 2 codes problems.
-(locate @ google docs, drive,& codechum)
+
 
 
 
